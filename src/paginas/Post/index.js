@@ -1,4 +1,4 @@
-import { Route, useParams, Routes } from "react-router-dom"
+import {useParams} from "react-router-dom"
 import posts from "json/posts.json"
 import PostModelo from "Componentes/PostModelo";
 import ReactMarkdown from "react-markdown"
